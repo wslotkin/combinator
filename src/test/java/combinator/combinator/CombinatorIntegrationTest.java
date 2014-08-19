@@ -20,8 +20,8 @@ import static junit.framework.Assert.assertTrue;
 
 public class CombinatorIntegrationTest {
 
-    private static final int HEIGHT = 5;
-    private static final int WIDTH = 5;
+    private static final int HEIGHT = 3;
+    private static final int WIDTH = 4;
     private static final String GENDER = "gender";
     private static final String VISION = "vision";
     private List<DataObject> dataObjects;
